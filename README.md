@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kabiligic
 - 👀 I’m interested in lifelong learning
-- 🌱 I’m currently learning data analytics
+- 🌱 Learning R, Python, Data Science, one course at a time
 - 💞️ I’m looking to collaborate on professional development programmes
 
 <!---
