@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Kabiligic
-- 👀 I’m interested in lifelong learning
-- 🌱 Learning R, Python, Data Science, one course at a time
+- 👋 Hi, this is #CK
+- - 🌱 Learning R, Python, Data Science, one course at a time
 - 💞️ I’m looking to collaborate on professional development programmes
 
 <!---
